@@ -14,7 +14,7 @@
 
 ### 🧭 Sobre mim
 
-- 🔁 Migrei recentemente para a área de desenvolvimento por adimiração e interesse pela área, principalmente por poder transformar uma idéa em algo real através dos projetos.  
+- 🔁 Migrei recentemente para a área de progamação por adimiração e interesse pessoal, principalmente pelo fato de poder transformar uma idéa em algo real através dos projetos.  
 - 📘 Estou em constante aprendizado e focado em evoluir minhas habilidades práticas.  
 - 💡 Gosto de desafios, sou comprometido, autodidata e estou sempre em busca de melhorias.  
 
