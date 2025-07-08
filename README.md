@@ -6,9 +6,9 @@
 
 ### 🧭 Sobre mim
 
-🔁 Migrei recentemente para a área de desenvolvimento por adimiração e interesse pela área, principalmente por poder transformar uma idéa em algo real através dos projetos.  
-📘 Estou em constante aprendizado e focado em evoluir minhas habilidades práticas.  
-💡 Gosto de desafios, sou comprometido, autodidata e estou sempre em busca de melhorias.  
+- 🔁 Migrei recentemente para a área de desenvolvimento por adimiração e interesse pela área, principalmente por poder transformar uma idéa em algo real através dos projetos.  
+- 📘 Estou em constante aprendizado e focado em evoluir minhas habilidades práticas.  
+- 💡 Gosto de desafios, sou comprometido, autodidata e estou sempre em busca de melhorias.  
 
 ---
 
@@ -38,7 +38,7 @@
 ### 📫 Como falar comigo
 
 - ✉️ E-mail: rubem.farias10@gmail.com
-- 💼 LinkedIn: linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- 💼 LinkedIn: https://www.linkedin.com/in/rubem-farias-1a8416275/
 - 💻 Istagran: https://www.instagram.com/_rubem.jr/
 
 ---
