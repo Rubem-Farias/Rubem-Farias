@@ -4,6 +4,14 @@
 
 ---
 
+<div>
+<a href="https://www.linkedin.com/in/rubem-farias-1a8416275/">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rubem-Farias&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubem-Farias&layout=compact&langs_count=16&theme=holi"/>
+</div>
+
+---
+
 ### 🧭 Sobre mim
 
 - 🔁 Migrei recentemente para a área de desenvolvimento por adimiração e interesse pela área, principalmente por poder transformar uma idéa em algo real através dos projetos.  
@@ -48,3 +56,7 @@
 ---
 
 ### 🚀 Vamos construir juntos? Estou aberto a parcerias e oportunidades!
+
+---
+
+
