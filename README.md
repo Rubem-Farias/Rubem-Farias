@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Rbem Farias
+## 👋 Olá, eu sou o Rubem Farias
 
 🎯 Desenvolvedor Júnior em transição de carreira, movido pela curiosidade, dedicação e vontade de crescer na área de tecnologia.
 
