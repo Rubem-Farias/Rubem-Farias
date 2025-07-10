@@ -47,7 +47,7 @@
 
 - ✉️ E-mail: rubem.farias10@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/rubem-farias-1a8416275/
-- 💻 Istagran: https://www.instagram.com/_rubem.jr/
+- 💻 instagram: https://www.instagram.com/_rubem.jr/
 
 ---
 
