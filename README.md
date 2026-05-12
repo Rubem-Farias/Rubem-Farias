@@ -1,6 +1,8 @@
-## 👋 Olá, eu sou o Rubem Farias
+## 👋 Olá, eu sou Rubem Farias
 
-🎯 Desenvolvedor Júnior em transição de carreira, movido pela curiosidade, dedicação e vontade de crescer na área de tecnologia.
+Profissional formado em Análise e Desenvolvimento de Sistemas, com experiência em operações, processos administrativos, atendimento e utilização de sistemas em ambientes corporativos.
+
+Atualmente venho direcionando minha evolução para desenvolvimento de software, análise de dados, automação e criação de soluções voltadas para organização de processos e melhoria operacional.
 
 ---
 
@@ -12,51 +14,55 @@
 
 ---
 
-### 🧭 Sobre mim
+## 🧭 Sobre mim
 
-- 🔁 Migrei recentemente para a área de progamação por adimiração e interesse pessoal, principalmente pelo fato de poder transformar uma idéa em algo real através dos projetos.  
-- 📘 Estou em constante aprendizado e focado em evoluir minhas habilidades práticas.  
-- 💡 Gosto de desafios, sou comprometido, autodidata e estou sempre em busca de melhorias.  
-
----
-
-### 🎓 Formação
-
-🎓 Curso de **Análise e Desenvolvimento de Sistemas (ADS)**  
-📅 Conclusão: **junho de 2025**
+- Tenho experiência profissional em áreas administrativas, operacionais e relacionamento com clientes.
+- Ao longo da minha trajetória, desenvolvi habilidades relacionadas à organização de processos, utilização de sistemas, resolução de problemas e acompanhamento de demandas.
+- Hoje utilizo a tecnologia como caminho para criar soluções mais práticas, organizadas e eficientes.
+- Busco evoluir constantemente através de projetos, estudos e experiências aplicadas ao contexto real das empresas.
 
 ---
 
-### 💻 Conhecimentos Atuais
+## 🎓 Formação
 
-- 🌐 **HTML5**, **CSS3** e **JavaScript**
-- 🧪 Estudando **TypeScript**
-- 🧰 Trabalhando em **projetos pessoais de Front-End**
-
----
-
-### 🤝 O que estou buscando
-
-- 🤝 Parcerias para desenvolvimento de projetos reais
-- 🚀 Oportunidades de aprendizado e crescimento profissional
-- 👨‍💻 Primeiras experiências como **Dev Júnior**
+🎓 Análise e Desenvolvimento de Sistemas (ADS)  
+📅 Conclusão: Junho de 2025
 
 ---
 
-### 📫 Como falar comigo
+## 💻 Tecnologias e estudos atuais
 
-- ✉️ E-mail: rubem.farias10@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/rubem-farias-1a8416275/
-- 💻 instagram: https://www.instagram.com/_rubem.jr/
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Git e GitHub
+
+Atualmente também venho estudando:
+- Estruturação de dados
+- Automação de tarefas
+- Desenvolvimento Front-End
+- Integração de ferramentas e soluções
 
 ---
 
-> 💡 *"A prática leva à evolução. Estou pronto para aprender, crescer e contribuir."*
+## 🚀 Objetivos
+
+- Desenvolver projetos voltados para problemas reais
+- Evoluir tecnicamente na área de desenvolvimento
+- Adquirir experiência prática através de projetos e colaboração
+- Construir soluções úteis utilizando tecnologia e automação
 
 ---
 
-### 🚀 Vamos construir juntos? Estou aberto a parcerias e oportunidades!
+## 📫 Contato
+
+✉️ E-mail: rubem.farias10@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/rubem-farias-1a8416275/  
+📷 Instagram: https://www.instagram.com/_rubem.jr/
 
 ---
+
+> “A tecnologia se torna mais valiosa quando resolve problemas reais.”
 
 
