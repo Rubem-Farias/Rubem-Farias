@@ -64,5 +64,3 @@ Atualmente também venho estudando:
 ---
 
 > “A tecnologia se torna mais valiosa quando resolve problemas reais.”
-
-
